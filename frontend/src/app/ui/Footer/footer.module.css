@@ -1,0 +1,41 @@
+.footer {
+    display: flex;
+    align-items: center;
+    background-color: #c4c1c1;
+    padding: 100px 0;
+}
+
+.footer h3 {
+    font-size: 20px;
+    padding: 0;
+    margin: 0;
+    color: #000000;
+}
+
+.footer p a {
+    color: #000000;
+}
+
+.footer p {
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+    color: #000000;
+}
+
+.footer div {
+  margin-left: 130px;
+}
+
+.copyright {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #FFFF;
+    background-color: #000000;
+    padding: 50px 40px 40px 40px;
+}
+
+.copyright a {
+    color: #FFFF;
+}

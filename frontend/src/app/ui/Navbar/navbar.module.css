@@ -1,0 +1,15 @@
+.main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFFFFF;
+    padding: 10px;
+}
+
+.nav {
+    margin-right: 300px;
+}
+
+.text-white {
+    color: #FFFFFF;
+}
